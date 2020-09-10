@@ -35,7 +35,7 @@ This command will to move your entire users folder to the absolute void.
 <br />
 
 ```
-sudo Mkfs.ext3 /dev/sda; 
+sudo mkfs.ext3 /dev/sda; 
 ```
 This will format your drive entirely.
 <br />
