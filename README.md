@@ -64,6 +64,9 @@ This command will add all the commands above to run on the next reboot.
 
 
 # Batch
+The following commands should work on windows and windows-based systems, and/or systems who can run batch commands (Like Wine on linux).
+<br />
+<br />
 
 ```
 del*.*
