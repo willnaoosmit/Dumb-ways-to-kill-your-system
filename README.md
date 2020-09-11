@@ -3,7 +3,7 @@ Kill your (or not yours) system with style. Many ways on many languages to make 
 
 # Bash
 
-The commands above should work on Android, Linux, MacOS, and others systems who run on the bash interpreter.
+The following commands should work on Android, Linux, MacOS, and others systems who run on the bash (and bash-like) interpreter(s).
 <br />
 <br />
 ```
